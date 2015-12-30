@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta content="text/html; charset=UTF-8" http-equiv="content-type"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>{% if page.title %}{{ page.title }} | {% endif %}The Great Indian Marriage</title>
+
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet" integrity="sha256-7s5uDGW3AHqw6xtJmNNtr+OBRJUlgkNJEo78P4b0yRw= sha512-nNo+yCHEyn0smMxSswnf/OnX6/KwJuZTlNZBjauKhTK0c+zT+q5JOCx0UFhXQ6rJR9jg6Es8gPuD2uZcYDLqSw==" crossorigin="anonymous">
+    <link rel="stylesheet" type="text/css" href="/css/tgim.css"/>
+
+    <link href="//netdna.bootstrapcdn.com/font-awesome/4.0.3/css/font-awesome.css" rel="stylesheet">
+
+    <!-- Le HTML5 shim, for IE6-8 support of HTML5 elements -->
+    <!--[if lt IE 9]>
+		<script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
+    <![endif]-->
+</head>
+
+<body>
+	<div class="navbar navbar-default navbar-fixed-top" role="navigation">
+		<div class="container-fluid">
+			<div class="navbar-header">
+				<a class="navbar-brand" href="/index.html">The Great Indian Marriage</a>
+			</div>
+		</div>
+	</div>
+
+	<div class="container-fluid" style="min-height:100%">
+		<div class="row mainBodyContainer">
+			<div class="col-sm-3 col-md-3 sidebar">
+				<ul class="nav nav-sidebar">
+					<li><a href="/index.html">Home</a></li>
+					<li class="nav-divider"></li>
+					<li><a href="#">Curious Cases</a></li>
+					<li><a href="/kill.html">How-to safely kill your husband</a></li>
+					<li><a href="#">Tips for MEN</a></li>
+					<li><a href="/jokes.html">The plight of a husband - in humor</a></li>
+					<li class="nav-divider"></li>
+					<li><a href="/disclaimer.html">Disclaimer</a></li>
+					<li><a href="/privacy-policy.html">Privacy Policy</a></li>
+				</ul>
+				<div id="footer">
+					<p class="text-muted"> 
+						Copyright &copy; 2011-2015, <a href="https://github.com/tgim">https://github.com/tgim</a>
+						<br>
+						All rights reserved.
+						<br>
+						<a href="/disclaimer.html">Disclaimer</a>
+						&nbsp;|&nbsp;
+						<a href="/privacy-policy.html">Privacy Policy</a>
+					</p>
+				</div>
+			</div>
+
+			<div class="col-sm-9 col-sm-offset-3 col-md-9 col-md-offset-3 main">
+				<div id="mainContainer">
+					{{ content }}
+				</div>
+			</div>
+		</div>
+	</div>
+
+	<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
+	<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js"></script>
+</body>
+</html>
