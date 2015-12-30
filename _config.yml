@@ -1,0 +1,18 @@
+# the site details
+title: The Great Indian Marriage
+tagLine: Marriage and its after-effects
+
+# something about me
+author:
+  name: My Story
+  github: tgim
+  url: http://tgim.github.io
+
+# are we publicly serving
+serving_publicly: true
+
+# file format encodings
+encoding: utf-8
+
+# disable custom plugins
+safe: true
