@@ -1,3 +1,8 @@
+---
+layout: default
+title: Sense a troublesome wife
+---
+
 ### How to sense a troublesome wife - a dominant or gold-digger
 
 Some of the actions done by wives who will try to rule your life - either be excessively dominany or a gold-digger are:
