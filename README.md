@@ -1,0 +1,5 @@
+# tgim.github.io
+
+The Great Indian Marriage - a journey log of how an Indian Arranged Marriage can ruin the life of the groom/husband.
+
+Copyright (C) 2011-2015. All rights reserved.
