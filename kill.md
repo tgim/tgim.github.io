@@ -80,6 +80,11 @@ expensive brands
 * Without asking him, just order stuff online with `Cash-on-delivery` option - make sure the delivery address is his office address.
 If he doesn't pay - you have a reason to fight. If he does pay - you are spot on.
 
+* Force him to buy you a car - tell him that this will make sure that he can devote more time for his work at office. Once 
+he finalizes the car and makes all the payments - and cancelling the car is sure to cost him a few ten-thousands - back off.
+Tell him that you don't need the car anymore - that you changed your mind - as there is a lot of traffic and too many accidents
+happen.
+
 ### Spoil all his favorite items
 
 There would definitely be things that he would love. Its your job to spoil them up so that they cannot be used again. Following
