@@ -1,3 +1,9 @@
+---
+layout: default
+title: Curious Cases
+---
+
+
 ### Curious Cases
 
 Curious cases are a log of some major events, happenings, incidents in life that relate to my saga of the **The Great 
