@@ -1,3 +1,8 @@
+---
+layout: default
+title: Tips for MEN
+---
+
 ### Tips to handle dominant/gold-digger wives
 
 If you think or-are sure that your wife is trying to be overtly-dominating or is just digging gold, following
