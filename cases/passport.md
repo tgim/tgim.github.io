@@ -3,6 +3,8 @@ layout: default
 title: Curious case of missing passport
 ---
 
+### Case of missing passport
+
 One fine day within an year of marriage, I received a call from my wife. She had taken a day off and was
 enjoying her day at home. She said
 
