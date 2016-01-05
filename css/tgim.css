@@ -137,3 +137,9 @@ img {
 	text-align: center;
 	font-size: 13px;
 }
+
+#disqus_thread {
+    margin-top: 40px;
+    border-top: 1px solid #ccc;
+    padding-top: 20px
+}
