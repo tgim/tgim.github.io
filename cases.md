@@ -11,5 +11,5 @@ Indian Marriage**. The cases are ordered in chronological ascending order. Some 
 ones that occured just before marriage. The most recent incidents are listed at the bottom of the page.
 
 1. <a href="/cases/passport-photo.html">Case of missing passport-size photograph</a>
-1. <a href="/cases/passport.html">Case of Missing Passport</a>
-1. <a href="/cases/passport-renew.html">Case of Passport-Renewal</a>
+1. <a href="/cases/passport.html">Case of missing passport</a>
+1. <a href="/cases/passport-renew.html">Case of passport-renewal</a>
