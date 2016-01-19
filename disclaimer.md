@@ -3,8 +3,6 @@ layout: default
 title: Disclaimer
 ---
 
-### Disclaimer
-
 All content is this site is a true account of my personal experience with my own life and my own Indian marriage. In no way this
 site or the contents herein reflect the opinions of my employer. 
 
