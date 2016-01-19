@@ -1,6 +1,7 @@
 ---
 layout: default
 title: The plight of a husband - in Humor
+social: true
 ---
 
 ### Going alone some place
