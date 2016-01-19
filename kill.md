@@ -9,8 +9,6 @@ This article is intended mainly for women.
 <b>MEN</b>: You may read this one to figure out patterns that you are becoming a target of hunt.
 </div>
 
-## How to safely kill your husband.
-
 Following are the perfect safe ways to kill your husband, tried and tested that take effect slowly and steadily. They are meant to 
 be used in an Indian marriage, but may work for others as well. Rest assured no law will consider you a suspect.
 
