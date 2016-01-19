@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Curious Cases
+social: true
 ---
 
 Curious cases are a log of some major events, happenings, incidents in life that relate to my saga of the **The Great 
