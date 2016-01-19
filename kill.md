@@ -1,6 +1,7 @@
 ---
 layout: default
 title: How-to safely kill your husband
+social: true
 ---
 
 <div class="alert alert-info">
