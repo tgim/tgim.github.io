@@ -1,9 +1,7 @@
 ---
 layout: default
-title: Tips for MEN
+title: Tips to handle dominant/gold-digger wives
 ---
-
-### Tips to handle dominant/gold-digger wives
 
 If you think or-are sure that your wife is trying to be overtly-dominating or is just digging gold, following
 tips might help you from the deadly 498a threat.
