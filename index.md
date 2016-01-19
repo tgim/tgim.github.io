@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Welcome!
+social: true
 ---
 
 <div class="alert alert-info">
