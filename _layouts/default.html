@@ -20,7 +20,7 @@
 <body>
 	<div class="navbar navbar-default navbar-fixed-top" role="navigation">
 		<div class="container-fluid">
-			<button class="navbar-toggle collapsed" type="button" data-toggle="collapse" data-target="tgim-sidebar"><i class="fa fa-bars"></i>
+			<button class="navbar-toggle collapsed" type="button" data-toggle="collapse" data-target="#tgim-sidebar"><i class="fa fa-bars"></i>
 			</button>
 			<div class="navbar-header">
 				<a class="navbar-brand" href="/index.html">The Great Indian Marriage</a>
@@ -57,6 +57,22 @@
 			</div>
 
 			<div class="col-sm-9 col-sm-offset-3 col-md-9 col-md-offset-3 main">
+				<div class="collapse" id="tgim-sidebar">
+					<div class="well">
+						<ul class="nav nav-sidebar">
+							<li><a href="/index.html">Home</a></li>
+							<li class="nav-divider"></li>
+							<li><a href="/cases.html">Curious Cases</a></li>
+							<li><a href="/kill.html">How-to safely kill your husband</a></li>
+							<li><a href="/sense.html">How-to sense a troublesome wife early</a></li>
+							<li><a href="/tips.html">Tips for MEN</a></li>
+							<li><a href="/jokes.html">The plight of a husband - in humor</a></li>
+							<li class="nav-divider"></li>
+							<li><a href="/disclaimer.html">Disclaimer</a></li>
+							<li><a href="/privacy-policy.html">Privacy Policy</a></li>
+						</ul>
+					</div>
+				</div>
 				<div id="mainContainer">
 					{{ content }}
 				</div>
@@ -64,6 +80,9 @@
 			</div>
 		</div>
 	</div>
+
+	<script src="//code.jquery.com/jquery-1.12.0.min.js"></script>
+	<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js" integrity="sha256-KXn5puMvxCw+dAYznun+drMdG1IFl3agK0p/pqT9KAo= sha512-2e8qq0ETcfWRI4HJBzQiA3UoyFk6tbNyG+qSaIBZLyW9Xf3sWZHN/lxe9fTh1U45DpPf07yj94KsUHHWe4Yk1A==" crossorigin="anonymous"></script>
 
 	<!-- add disqus comment engine -->
 	<script>
