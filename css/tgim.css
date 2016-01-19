@@ -25,6 +25,10 @@ select[multiple] {
     display: none;
 }
 
+.social-links {
+    margin-bottom: 20px;
+}
+
 @media (min-width: 768px) {
     .sidebar {
         position: fixed;
