@@ -10,9 +10,9 @@ comments are moderated.
 
 The site uses third-party website traffic monitoring script: `Google Analytics`
 to see how much traffic are we generating and from where in the world 
-are people coming in from. I am also happy with Github provided traffic graphs, but the more
-the merrier.
+are people coming in from. This helps me visualize how much effort do I need to put in to this 
+project - for it takes a lot of effort to write what you face everyday.
 
 I will update this very page if there are changes to the policy.
 
-Last updated: 4 Jan 2016
+Last updated: 19 January 2016
