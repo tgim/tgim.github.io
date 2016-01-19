@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Tips to handle dominant/gold-digger wives
+social: true
 ---
 
 If you think or-are sure that your wife is trying to be overtly-dominating or is just digging gold, following
