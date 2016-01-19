@@ -1,9 +1,8 @@
 ---
 layout: default
 title: Privacy Policy
+social: false
 ---
-
-### Privacy Policy
 
 The site does not collect any personal information whatsoever. The site however uses `disqus.com`
 based commenting system - to let users voice their opinion.  To filter out spam and abuse, all
