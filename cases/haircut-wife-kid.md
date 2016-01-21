@@ -37,3 +37,10 @@ Another drama ensued when my wife refused to get down from the car. Angushed I t
 and was free by 4:50 PM. I came back to the car with the kid with the cut, and started for home. My wife kept
 abusing me for all the wrongs supposedly in the cut. I ignored and drove as fast as I could for home. We were back
 home by 5:15 PM. 
+
+The first thing I did was to go to the market to get packets of `Lactogen`, and `NaN` for the kid. Along with I was
+too too pissed off with life and the delay, I went for a haircut and coloring. It all took 20 minutes and by 5:40 PM
+I was back home again. The market I talk of is just 100 meters away from home. I then took a bath, ironed my clothes,
+packed my bags, and was off to board the cab by 6:40 PM - yes, 40 minutes late.
+
+My luck had it and I could catch my flight due to little rush on the road.
