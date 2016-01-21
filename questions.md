@@ -1,7 +1,7 @@
 ---
 layout: default
 social: true
-title: Questions for my Wife and Family to answer
+title: Questions for my Wife to answer
 ---
 
 The following are the questions that I would like to ask and get an answer to from my wife and her family, specially
@@ -16,5 +16,5 @@ in winters of North India?
 had taken a week off. Then why does my wife not spend anything at home, infact, asks me for money to go to the office
 everyday. If the responsibilities should be shared equally, then why not financial responsibilities of home?
 
-1. I earn around 6x more than her (her salary assumed to be x) - if she is not spending money at home, or on the kid
-(she never has) - then what is the point in loos
+1. Why did she throw my parents out of the house? And why were her parents not at all concerned about this - that they
+never came forward to talk or sort the matters out?
