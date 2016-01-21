@@ -47,11 +47,16 @@ I also got to know that the doctor at her native place, had advised **nebulizing
 and the earliest they got it done was **Friday night** - a full 4 days later. I just could not understand how a mother
 along with 3 other adults at home could miss getting medicine administered to the kid. Later I also came to know that
 during these 4 days, my wife took the kid atleast twice for shopping (once to a jeweller and the second time to pick
-up a cycle for the kid)
+up a cycle for the kid) - still cannot fathom as to why a mother will take a kid under **101 degree** fever to
+shopping.
 
 Getting the X-ray done was tough - wife refused to come inside the X-ray room, and holding the child straight and making
 sure that the kid didn't move hands or feet all alone, with no clothes on was too tough for me. However, by god's grace
 I could get the X-ray done.
 
-In the evening when we showed the X-ray to the doctor, the kid was prescribed `nebulizing` every 2 hours for the next
+In the evening when we showed the X-ray to the doctor, the kid was prescribed **nebulizing** every 2 hours for the next
 couple of days, along with two anti-biotics. The kid started getting better with the inflow of medicines in her body.
+
+Now another big thing for me. My wife refused to stay back home and forced me to take a leave of entire one-week to
+baby-sit and take care of the kid. This also involved me cancelling my pending official trip and cancel my return
+ticket as well. A loss of a few ten-grands is not more than my kid's health.
