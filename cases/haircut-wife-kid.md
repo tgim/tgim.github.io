@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Haircut for Wife and Kid
+social: true
 ---
 
 This incident happened when I had to leave for an official trip within the country. My flight was scheduled
