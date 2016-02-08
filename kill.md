@@ -228,9 +228,9 @@ to do in office. A simple win-win situation.
 
 * If you catch him watching porn, accuse him of being characterless
 
-* Abuse him as much as you can. Phrases like `son of a bitch`, `scoundrel`, `dog's pup`, and more can be used in every other conversation.
-Start using these phrases first calling him lovingly. Then make sure that you do that every 20th statement of yours. If he objects, say
-that you have learnt them from him
+* Plan a visit home. Stop midway in you city from where your parents should pick you up. Tell your husband that you will be back in 10 minutes. Then don't return before hours - let the husband keep standing like a foolish ass in the middle of nowhere. And yes, come what may don't pick up his phone.
+
+* Abuse him as much as you can. Phrases like `son of a bitch`, `scoundrel`, `dog's pup`, and more can be used in every other conversation. Start using these phrases first calling him lovingly. Then make sure that you do that every 20th statement of yours. If he objects, say that you have learnt them from him
 
 * While driving, point out to all his non-mistakes. 
 
@@ -239,17 +239,13 @@ that you have learnt them from him
   * If he doesn't jump the red-light abuse him of making you late. If he jumps the red-light, abuse him for trying to kill you in an
   accident
 
-* During a fight, try and slap him. If he holds your hands to prevent, abuse him that you got blues and pain because he beat you up. Repeat
-the statements in loud voice at home, and on chat conversations
+* During a fight, try and slap him. If he holds your hands to prevent, abuse him that you got blues and pain because he beat you up. Repeat the statements in loud voice at home, and on chat conversations
 
-* Throw a slipper at him, if he throws it back - throw one of his slipper out of the house in the garbage bin. Abuse him in chat that he 
-beat you up
+* Throw a slipper at him, if he throws it back - throw one of his slipper out of the house in the garbage bin. Abuse him in chat that he beat you up
 
-* Delete some of his contacts from his cell phone, specially female friends. Delete some of his old pics from college, and say it happened
-by mistake
+* Delete some of his contacts from his cell phone, specially female friends. Delete some of his old pics from college, and say it happened by mistake
 
-* Last but not the least, delete the numbers of all your own relatives and friends. Make sure that he cannot contact any of your parents,
-family, cousins or friends.
+* Last but not the least, delete the numbers of all your own relatives and friends. Make sure that he cannot contact any of your parents, family, cousins or friends.
 
 <div class="alert alert-warning">
 In the end, I can just say that these worked in my case, and I feel like a dead-man walking this planet. Your mileage may vary.
